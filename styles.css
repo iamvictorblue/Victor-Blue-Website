@@ -220,7 +220,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 100vh;
+    height: 0 auto;
     background-image: url("images/victorbluelogotwist.gif");
     background-position: center;
     background-size: 20%;
@@ -361,7 +361,7 @@
       justify-self: center;
       width: 100%;
       margin: 0 auto;
-      height: 90vh;
+      height: auto;
     }
   
     .main__content {
