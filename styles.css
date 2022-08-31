@@ -392,6 +392,8 @@
   
     .main__content h2 {
       font-size: 2rem;
+      padding: 12px 36px;
+
     }
   
     .main__content p {
@@ -559,6 +561,7 @@
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
+    
   }
   
   .footer__links {
