@@ -116,14 +116,7 @@
       padding: 0;
     }
     
-    .social__icons {
-      display: table;
-      justify-items: auto;
-      align-items: center;
-      text-align: center;
-      width: auto;
-      
-    }
+   
     .navbar__menu {
       display: grid;
       grid-template-columns: auto;
@@ -445,20 +438,13 @@
     }
   
     .main__content h2 {
-      font-size: 2rem;
+      font-size: 1rem;
       margin-top: 3rem;
       text-align: center;
       width: aut
 
     }
-    .social__icons {
-      display: table;
-      justify-items: auto;
-      align-items: center;
-      text-align: center;
-      width: 400px;
-      
-    }
+    
   
     .main__content p {
       margin-top: 2rem;
@@ -592,14 +578,7 @@
       font-size: 2rem;
       margin-top: 12rem;
     }
-    .social__icons {
-      display: table;
-      justify-items: auto;
-      align-items: center;
-      text-align: right;
-      width: auto;
-      
-    }
+   
   }
   
   @media screen and (max-width: 480px) {
@@ -714,13 +693,7 @@
     margin: 40px auto 0 auto;
   }
   
-  .social__icons {
-    display: flex;
-    justify-content:space-between;
-    align-items: center;
-    text-align: center;
-    width: 400px;
-  }
+ 
   
   .social__logo {
     color: #fff;
@@ -743,16 +716,7 @@
       padding-top: 1rem;
       height: auto;
     }
-    .social__icons {
-      display: table-row;
-      margin-bottom: 50%;
-      justify-items: center;
-      align-items: center;
-      text-align: center;
-      width: auto;
-      height: auto;
-      
-    }
+   
   
     #footer__logo {
       margin-bottom: 2rem;
