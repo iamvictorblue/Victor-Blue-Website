@@ -420,10 +420,10 @@
     }
     .social__icons {
       display: table;
-      justify-items: auto;
+     
       align-items: center;
       text-align: center;
-      width: auto;
+      width: 400px;
       
     }
   }
